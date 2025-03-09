@@ -1,0 +1,12 @@
+#this will pass phase 2 but fail phase 3 for foo return type not matching
+
+foo[y:Integer]:Double{
+    print[y];
+	return 3.3;
+}
+
+main[]:Integer{
+    Integer x = foo[5];
+	print[x];
+	return x;
+}

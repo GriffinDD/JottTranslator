@@ -1,0 +1,5 @@
+#this will pass phase 2 but fail phase 3 for missing return;
+
+foo[x:String]:String{
+    print[x];
+}

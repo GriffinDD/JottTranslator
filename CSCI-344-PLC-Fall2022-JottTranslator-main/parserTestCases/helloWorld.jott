@@ -1,0 +1,6 @@
+#this is hello world in Jott
+
+main[]:Integer{
+    print["Hello World"];
+    return 1;
+}

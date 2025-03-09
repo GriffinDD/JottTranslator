@@ -1,0 +1,8 @@
+#this is an example
+foo[]:Integer{
+    Integer x = 3;
+    Double y = 3.2 + x;
+    print[5];
+    #this is a comment
+    print[ "foo bar" ]
+}
