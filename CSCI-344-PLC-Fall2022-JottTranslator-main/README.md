@@ -1,7 +1,6 @@
 For organization and ease of import, we used a package based system and subfolders in our src directory, as shown in Phase2Hierarchy.png.
 
-As such, all files used in our system must be added into the package system. For this submission, the full src
-file has been submitted for ease of testing. To use the parse tester, place it in the src directory and add the lines:
+As such, all files used in our system must be added into the package system. To use the parse tester, place it in the src directory and add the lines:
 
 package src;
 
